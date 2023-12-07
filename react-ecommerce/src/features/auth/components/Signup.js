@@ -6,7 +6,7 @@ import {
   incrementAsync,
   selectCount
 
-} from '../../product-list/productListSlice';
+} from '../../counter/counterSlice';
 import { Link } from "react-router-dom";
 
 export default function Signup() {

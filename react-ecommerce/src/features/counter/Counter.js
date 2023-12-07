@@ -6,7 +6,7 @@ import {
   incrementAsync,
   selectCount
 
-} from '../product-list/productListSlice';
+} from '../product-list/productSlice';
 
 export default function Counter() {
   const count = useSelector(selectCount);
